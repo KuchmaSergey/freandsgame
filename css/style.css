@@ -48,8 +48,13 @@
 }
 .image-t-three{
     height: 600px;
-        width: 500px;
-        padding-left: 520px;
+    width: 500px;
+    padding-left: 520px;
+}
+.image-n-three{
+    height: 650px;
+    width: 500px;
+    padding-left: 520px
 }
 .greg-body{
     background-color: aquamarine;
