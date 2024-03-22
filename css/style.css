@@ -42,7 +42,7 @@
     padding-left: 530px;
 }
 .image-greg-three{
-    height: 500px;
+    height: 550px;
     width: 500px;
     padding-left: 520px;
 }
@@ -61,6 +61,9 @@
 }
 .sanya-body{
     background-color: skyblue;
+}
+.nastya-body{
+    background-color: pink;
 }
 .greg-text{
     text-align: center;
@@ -93,6 +96,10 @@
 .button-items:hover,
 .button-items:focus {
     background-color: rgb(153, 0, 255);
+}
+.button-itemn:hover,
+.button-itemn:focus {
+    background-color: rgb(255, 0, 195);
 }
 .button-text{
     padding-top: 5px;
