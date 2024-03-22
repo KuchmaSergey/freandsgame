@@ -1,5 +1,6 @@
 .image{
     width:1600px;
+    
 }
 .body{
     background-color: rgb(10, 169, 169); ;
@@ -32,21 +33,24 @@
     font-size: 60px;
 }
 .image-greg{
-    width: 600px;
-    padding-left: 450px;
+    width: 200px;
+    padding-left: 650px;
 }
 .image-greg-two{
-    height: 600px;
-    width: 400px;
-    padding-left: 550px;
+    height: 500px;
+    width: 500px;
+    padding-left: 530px;
 }
 .image-greg-three{
     height: 500px;
-    width: 400px;
-    padding-left: 550px;
+    width: 500px;
+    padding-left: 520px;
 }
 .greg-body{
     background-color: aquamarine;
+}
+.sanya-body{
+    background-color: skyblue;
 }
 .greg-text{
     text-align: center;
@@ -75,6 +79,10 @@
 .button-item:hover,
 .button-item:focus{
     background-color: rgb(0, 136, 255);
+}
+.button-items:hover,
+.button-items:focus {
+    background-color: rgb(153, 0, 255);
 }
 .button-text{
     padding-top: 5px;
