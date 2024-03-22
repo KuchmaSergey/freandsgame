@@ -1,0 +1,84 @@
+.image{
+    width:1600px;
+}
+.body{
+    background-color: rgb(10, 169, 169); ;
+}
+.title{
+    font-size: 80px;
+    text-align: center;
+}
+.div-link{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    
+     font-size: 60px;
+     margin-top:  100px;
+     padding-bottom: 100px;
+}
+.link:hover,
+.link:focus{
+    color: red;
+}
+.text{
+    font-size: 50px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first-man-title{
+    text-align: center;
+    font-size: 60px;
+}
+.image-greg{
+    width: 600px;
+    padding-left: 450px;
+}
+.image-greg-two{
+    height: 600px;
+    width: 400px;
+    padding-left: 550px;
+}
+.image-greg-three{
+    height: 500px;
+    width: 400px;
+    padding-left: 550px;
+}
+.greg-body{
+    background-color: aquamarine;
+}
+.greg-text{
+    text-align: center;
+    font-size: 50px;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+.list{
+    list-style: none;
+}
+.button-text{
+    font-size: 30px;
+}
+.li-item{
+    margin-right: 10px;
+    
+
+}
+.button-item{
+    cursor: pointer;
+}
+.button-item:hover,
+.button-item:focus{
+    background-color: rgb(0, 136, 255);
+}
+.button-text{
+    padding-top: 5px;
+}
+.button-item-two {
+    
+}
