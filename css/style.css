@@ -65,6 +65,9 @@
 .nastya-body{
     background-color: pink;
 }
+.pogar-body {
+    background-color: rgb(192, 255, 199);
+}
 .greg-text{
     text-align: center;
     font-size: 50px;
@@ -100,6 +103,10 @@
 .button-itemn:hover,
 .button-itemn:focus {
     background-color: rgb(255, 0, 195);
+}
+.button-itemp:hover,
+.button-itemp:focus {
+    background-color: rgb(255, 132, 0);
 }
 .button-text{
     padding-top: 5px;
